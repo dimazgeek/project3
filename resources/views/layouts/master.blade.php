@@ -4,7 +4,7 @@
     <title>
    
         @yield('title')
-        <h3>project 3</h3>
+        project 3
     </title>
 
     <meta charset='utf-8'>
@@ -26,7 +26,7 @@ integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En
 <body>
 <div class='container'>
     <header>
-            <h1>Project 3</h1>
+           <h3> Project 3</h3>
     </header>
     
     <section>
