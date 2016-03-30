@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Http\Controllers\Controller;
-use Badcow\LoremIpsum\Generator;
+use \Badcow\LoremIpsum\Generator;
 use Illuminate\Http\Request;
 
 class LoremIpsumController extends Controller {
