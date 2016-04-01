@@ -8,6 +8,10 @@ http://p3.dimzsyd.me/
 In this project, I use package Badcow for generate Lipsum Lorem
 for generete Profile I do not use, I make function to random name, birth date and some profile
 I use some bootstrap function on html and for view i use blade.
+I use validation for request method
 
 #package
-Badcow 
+Badcow
+
+#demo
+https://www.youtube.com/watch?v=LAD9b3Ng7js
